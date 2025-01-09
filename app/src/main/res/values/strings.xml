@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">DynamicsSimulator</string>
+    <string name="app_name">Dynamics Simulator</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="you_should_set_only_two_variables">you should set only two variables</string>
+    <string name="cannot_be_solved">cannot be solved</string>
+    <string name="vertical_fall">vertical fall</string>
+    <string name="vertical_launch">vertical launch</string>
+    <string name="launch_from_height">launch from height</string>
+    <string name="developer_name">Khaled Hawwas</string>
+    <string name="by">By:</string>
+    <string name="linkedin_profile">LinkedIn Profile</string>
+    <string name="github_profile">GitHub Profile</string>
+    <string name="contact_via_gmail">Contact via Gmail</string>
+    <string name="start_simulation">start simulation</string>
+    <string name="fell_free_if_you_have_any_suggestions_or_found_any_bugs">fell free if you have any suggestions or found any bugs</string>
+    <string name="max_height">max height</string>
+    <string name="total_time">total time</string>
+    <string name="final_velocity">final velocity</string>
+    <string name="initial_height">initial height</string>
+    <string name="initial_velocity">initial velocity</string>
+    <string name="when">When:</string>
+    <string name="time">Time</string>
+    <string name="height">Height</string>
+
 </resources>
